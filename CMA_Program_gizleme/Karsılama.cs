@@ -21,7 +21,7 @@ namespace CMA_Program_gizleme
         {
             webBrowser1.Hide();
             webBrowser2.Hide();
-            MessageBox.Show("Cumhuriyet Muhafız Alayı gizleme programına hoş geldiniz.","Cumhuriyet Muhafız Alayı & İslam");
+      
             timer1.Start();
         }
 
